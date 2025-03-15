@@ -1,38 +1,52 @@
-# UIWithUnity -- Third Person Platformer
+# UIWithUnity - Third Person Platformer
 
-A simple third person character controller in Unity
+A simple third-person character controller built with Unity.
 
-## Demo
+## 🎮 Demo
 
+Check out the gameplay demo:
+[![Watch Demo](https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125)](https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125)
 
+---
 
-https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125
+## 📥 Cloning & Setting Up the Project
 
+### ✅ Prerequisites
+Ensure you have the following installed:
+- **Unity Hub** → [Download](https://unity.com/download)
+- **Unity Version** → `6000.0.31f1`
+- **Git** → [Download Git](https://git-scm.com/)
+- **GitHub Desktop** (optional) → [Download GitHub Desktop](https://desktop.github.com/download/)
 
+### 🔧 Installation Steps
+1. Clone the project using Git:
+   ```sh
+   git clone <repository-url>
+   ```
+   Or using [GitHub Desktop](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop).
+2. Open **Unity Hub**.
+3. Click **"Open"** and select the cloned project folder (which contains `Assets`, `ProjectSettings`, `Packages`).
+4. Wait for Unity to load the project.
 
-## Cloning & Setting Up the Project
+---
 
-1. Ensure you have
-	- **Unity Hub** (Download: [Unity Hub](https://unity.com/download))
-	- **Unity Version** (6000.0.31f1)
-	- **Git** ([Download Git](https://git-scm.com/)) or **Github Desktop** ([Download Github Desktop](https://desktop.github.com/download/))
-2. Clone the project via [Git](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=cli) or [Github Desktop](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop)
-3. Open **Unity Hub**
-4. Click **"Open"** and select the cloned project folder (with Assets, ProjectSettings, Packages)
+## 🚀 Features
 
-## Features
+- 🎥 **Third-Person Camera**: Smooth camera movement.
+- 🎮 **Player Movement**: Move using `WASD` keys.
+- ⏸️ **Pause System**: Pause the game with `P`.
+- ⚡ **Speed Control**: Increase and decrease player speed dynamically.
+- 🏃 **Jump & Double Jump**: Press `Space` to jump and double jump.
+- 💨 **Dash Mechanic**: Press `Shift` to dash forward.
+- 💰 **Coin Collection**: Collect coins by moving over them.
+- 📊 **Score Counter**: Displays collected coins in the top-right corner.
 
-- Third Person Camera
-- Move around with WASD
-- Pause the game with P
-- Increase and Decrese the speed of the Player
-- Jump, Double Jump with Space
-- Dash with Shift
-- Collect Coins by moving over them
-- Score Counter on the top right
+---
 
-## Credits
+## 🎨 Credits
 
-Uses coin model from [Quaternius](https://quaternius.com/) (Sourced from [Poly Pizza](https://poly.pizza/m/QHZtj94fvh))
+- **Coin Model**: Provided by [Quaternius](https://quaternius.com/), sourced from [Poly Pizza](https://poly.pizza/m/QHZtj94fvh).
+
+---
 
 
