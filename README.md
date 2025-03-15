@@ -5,7 +5,8 @@ A simple third-person character controller built with Unity.
 ## 🎮 Demo
 
 Check out the gameplay demo:
-[![Watch Demo](https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125)](https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125)
+
+https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125)](https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125
 
 ---
 
