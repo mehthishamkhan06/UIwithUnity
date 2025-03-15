@@ -22,7 +22,7 @@ Ensure you have the following installed:
 ### 🔧 Installation Steps
 1. Clone the project using Git:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/mehthishamkhan06/UIwithUnity.git
    ```
    Or using [GitHub Desktop](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop).
 2. Open **Unity Hub**.
