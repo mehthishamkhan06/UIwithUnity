@@ -1,4 +1,4 @@
-# Third Person Platformer
+# UIWithUnity -- Third Person Platformer
 
 A simple third person character controller in Unity
 
