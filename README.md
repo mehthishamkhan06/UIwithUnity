@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/ce86c360-6740-4b65-b22d-3596c6aee125
 - Third Person Camera
 - Move around with WASD
 - Pause the game with P
-- Increase and Decresing the speed of the Player
+- Increase and Decrese the speed of the Player
 - Jump, Double Jump with Space
 - Dash with Shift
 - Collect Coins by moving over them
